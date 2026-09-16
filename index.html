@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rock Paper Scissors</title>
+  <link rel="stylesheet" href="sytle.css">
+</head>
+<body>
+
+  <div class="overlay">
+    <h1>🎮 ROCK PAPER SCISSORS</h1>
+
+    <div class="score">
+      🏆 Wins: <span id="wins">0</span> |
+      ❌ Losses: <span id="losses">0</span> |
+      🤝 Ties: <span id="ties">0</span>
+    </div>
+
+    <div class="buttons">
+      <button onclick="playGame('rock')">✊ Rock</button>
+      <button onclick="playGame('paper')">🖐 Paper</button>
+      <button onclick="playGame('scissors')">✌ Scissors</button>
+    </div>
+
+    <h2 id="result">Choose Your Move!</h2>
+    <p id="moves"></p>
+
+    <button class="reset" onclick="resetScore()">🔄 Restart</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
