@@ -4,7 +4,7 @@ A simple, browser-based Rock Paper Scissors game — playable instantly, no inst
 
 ## 🔗 Live Demo
 
-👉 [Play it here](https://karthi248.github.io/RPS/)
+👉 [Play it here](https://karthi248.github.io/RPS-Website/)
 
 ## How to Play
 
@@ -40,5 +40,8 @@ A simple, browser-based Rock Paper Scissors game — playable instantly, no inst
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/karthi248/RPS.git
+git clone https://github.com/karthi248/RPS-Website.git
+```
 
+## Preview
+![Game Preview](preview.png)
