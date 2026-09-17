@@ -28,12 +28,6 @@ A simple, browser-based Rock Paper Scissors game — playable instantly, no inst
 - **CSS** – styling, layout, and background
 - **JavaScript** – game logic, scoring, and interactivity
 
-## Getting Started (Local Setup)
-
-1. Clone the repo:
-```bash
-git clone https://github.com/karthi248/RPS.git
-
 ## Future Improvements
 
 - Add sound effects for wins, losses, and ties
@@ -41,3 +35,10 @@ git clone https://github.com/karthi248/RPS.git
 - Add a "Best of 5" or "Best of 10" match mode
 - Add a two-player mode (play against a friend instead of the computer)
 - Improve mobile responsiveness further
+
+## Getting Started (Local Setup)
+
+1. Clone the repo:
+```bash
+git clone https://github.com/karthi248/RPS.git
+
