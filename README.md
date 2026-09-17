@@ -44,4 +44,4 @@ git clone https://github.com/karthi248/RPS-Website.git
 ```
 
 ## Preview
-![Game Preview](preview.png)
+![Game Preview](preview.jpg)
